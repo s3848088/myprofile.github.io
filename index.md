@@ -1,11 +1,9 @@
 <<!DOCTYPE html>
 <html lang='en' dir='ltr'>
-
   <head>
     <meta charsets='utf-8'>
     <title> Assignment 1: MY PROFILE </title>
   </head>
-
   <body style="background-color:powderblue;">
     <h1> MY IT PROFILE </h1>
     <h2> 1. Personal Information </h2>
@@ -38,5 +36,4 @@
     <p> The application will have these main functions are storing the users’ height, weight, date of birth, methods of practices, training, eating regulations. The application will ask for the users’ height, weight, date of birth and ask them to select their training method, or training styles. Not only those, it could also have a reminding system to help the users to set a time for them to be in their practice time and improve their daily diet, etc. This stored information will be used in creating the methods for the users to calculated specifically on what they want to become after a specific time period. The app can have a cloud full of steps you can practice at home and pick out the right one for the users. Besides that, another function the app can come with is the “Star Sign Lucky”, this can be used by the users when they input their date of birth, the app can find out their Star Sign and gives users tips of the day from that Star Sign and the Sign’s luck for the day. When the selected dated of the training period arrived, it will ask the users again for their body’s information and ask them to rate the changes they have so that they can change the training method for the next change. Even though, the app can still give the users tips to help them improve better in the future, the default setting for the tips is one tips per day or the users can set it to 3 tips per week or however they want, could be no tips at all if they choose to turn of that tips sending function. One more helpful function for this program is that it can set a streak counting for users so they can track on their progress and it will remind the users when their streak is getting lost to pull them back on track.  </p>
     <p> For this project to be done, I could work on JAVA as a base language, I can set a place (a cloud storage) to store the users information that they submit in and to store different learning methods of trainings and diet style and the daily Sign information. For this application to work, a smartphone is the perfect condition for its’ best performance. </p>
   </body>
-
 </html>

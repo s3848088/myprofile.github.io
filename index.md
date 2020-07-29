@@ -15,21 +15,17 @@
     <p> I am 19 years old, living in Ho Chi Minh City, Viet Nam. I've learnt a little bit about coding in Python. My hobby is listening to music and I can play the piano, guitar. I also have spent 3 years studying high school in Sydney, Australia.</p>
     <p> At RMIT SGS, I'm currently a member of RMIT Mass Media Club, where I'm working in the Human Resource department.</p>
     <img src='graduation.jpg' alt='High school Graduation'>
-
     <h2> 2. Interest in IT </h2>
     <p> I was interested in IT since 2017, it all starts when I chose ICT (Information Communication Technology) as one of my electives. I found out that this is subject interesting as I had the chance to learn about the IT world even though at that time it was just basic things from different areas of IT industry, and I want to know more about it. At that time, I like to spend my time sitting on my computer, so this is perfect for me to dive into IT. When I reach year 11, I choose Software Design as one of my main subjects and I've learnt about basic Python coding and I get 70% marks for the year 12 graduation exam. </p>
     <p>  I choose to come to RMIT as I like the environment in Viet Nam more than the overseas, so I headed back to Viet Nam for my university time period. And from this school that I pick, which is School of Science Technology (SST), I hope that I can improve my skill to a more advanced level than I am currently.	</p>
-
     <h2> 3. Ideal job </h2>
     <p> I found out that currently HARAVAN is a big company in Viet Nam, where they provide an extremely good websites for business’s purposes. At the moment, they currently have position available in QC Engineer, where it requires to develop or test thousands of SaaS products to help merchants improving their businesses. This position which I think is suitable with me because this allows me to work with various new products, as I like to know more and more new things. Also, I am a careful person who pays attention to details and patients, which are some of their requirements to work in that position. Besides that, there are some extra skills that this position requires that I don’t have yet, such as “Experience in API testing, performance testing, security testing, usability testing, etc.”, I hope that during my university period I can learn those skills throughoutly. </p>
     <img src='jobdescription.png' alt='Job Description'>
-
     <h2> 4. Personal profile </h2>
     <p> This is my personality test results that I've done on 16personalities.com: </p>
     <img src='personalitytest.jpg' alt="MBTI Test Results">
     <p> These results to me are really accurate as it has mentioned and described correctly how I work individually and as a group. I can be honest, direct and responsible. I have a good memory system so that can help me to remmeber impoortant details once I've encountered it, that's another strong point of myself being a Logistician. </p>
     <p> But being a Logistician comes with some other weakness when I work in a team such as I can get really stubborn. Sometimes I can say things that can hurt someone that I didn't meant to do it at all, but I have my ways to prevent that to happen is that I will think a lot when I'm about to say something that could potentially hurt the person who will receive the message.
-
     <p> My learning style results: http://www.educationplanner.org/students/self-assessments/learning-styles-results.shtml?event=results&A=7&V=7&T=6&N=Minh </p>
     <img src='learningstyle.jpg' alt='Learning Style Results'>
     <p> The results shows that I'm an Auditory/Visual learrner, that means I'm most effective in learning something is when I have heard and listened to the information myself directly and I can store the information the way it sounds, I can understand spoken theory better than written theory. Besides that, I could remember and understand information by sight.  I'm at my highest focus is when I combine music to a thing/task that I have to do, even though some might think that it is distracting. </p>
